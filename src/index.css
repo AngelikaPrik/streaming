@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.container__video {
+  position: relative;
+  width: 100%;
+}
+
+.container__webcam {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.btn {
+  padding: 10px 14px;
+}
