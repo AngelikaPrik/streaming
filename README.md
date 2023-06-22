@@ -1,4 +1,4 @@
-# How to run app in dev: 
+## How to run app in dev: 
 
 1. git clone https://github.com/AngelikaPrik/streaming.git
 
